@@ -1,5 +1,7 @@
 class AccountHomeController < ApplicationController
+  include GovukPersonalisation::ControllerConcern
+
   def show
-    redirect_to(GovukPersonalisation::Urls.manage, allow_other_host: true)
+    redirect_with_analytics GovukPersonalisation::Urls.manage
   end
 end
