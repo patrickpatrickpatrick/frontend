@@ -67,7 +67,7 @@ module MachineReadable
     end
 
     def logo_url
-      image_url("govuk_publishing_components/govuk-logo.png")
+      image_url("govuk_publishing_components/govuk-logo.webp")
     end
 
     def image_url(image_file)

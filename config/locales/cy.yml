@@ -331,13 +331,13 @@ cy:
       heading: Diweddariadau rhaglen
       items:
       - href: https://gds.blog.gov.uk/2021/03/29/whats-next-for-gov-uk-in-2021-to-2022/
-        image_src: roadmap/updates-goals.jpg
+        image_src: roadmap/updates-goals.webp
         heading_text: Ein 5 amcan
       - href: https://gdscareers.gov.uk/
-        image_src: roadmap/updates-work.jpg
+        image_src: roadmap/updates-work.webp
         heading_text: Gweithiwch yn GDS
       - href: https://insidegovuk.blog.gov.uk/
-        image_src: roadmap/updates-blog.jpg
+        image_src: roadmap/updates-blog.webp
         heading_text: Blog Tu mewn i GOV.UK
   save:
   sessions:
