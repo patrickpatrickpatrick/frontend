@@ -40,7 +40,7 @@ The content for the promo slots can be found in the [`yml` translation file](../
 - `text`: the promo description
 - `title`: the promo title
 - `href`: the link the promo goes to. This can either be internal (`/my-path`) or external (`https://www.mywebsite.com/my-path`)
-- `src`: the promo image location. Image should be in the [`homepage` asset directory](../assets/images/homepage) and can be pulled via `homepage/[my-image].png`
+- `src`: the promo image location. Image should be in the [`homepage` asset directory](../assets/images/homepage) and can be pulled via `homepage/[my-image].webp`
 - `srcset`: this is an optional attribute to define promo image `srcset` values.
 
 You can define `srcset` values in the yml like so:

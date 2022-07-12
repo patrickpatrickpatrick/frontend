@@ -401,15 +401,15 @@ en:
         - text: Find out what financial support is available from the government.
           title: Cost of living
           href: https://costoflivingsupport.campaign.gov.uk/
-          image_src: homepage/cost-of-living.jpg
+          image_src: homepage/cost-of-living.webp
         - text: Find out about the UK's response to the Russian government's invasion of Ukraine and how you can help.
           title: War in Ukraine
           href: https://ukstandswithukraine.campaign.gov.uk/
-          image_src: homepage/ukraine-promo.jpg
+          image_src: homepage/ukraine-promo.webp
         - text: Check the rules on COVID-19 for travelling abroad.
           title: 'Travel abroad'
           href: /guidance/travel-abroad-from-england-during-coronavirus-covid-19
-          image_src: homepage/travel-abroad-step-by-step.png
+          image_src: homepage/travel-abroad-step-by-step.webp
       running_limited_company: Running a limited company
       search_button: Search GOV.UK
       search_label: Search
@@ -560,13 +560,13 @@ en:
       heading: Updates
       items:
       - href: https://gds.blog.gov.uk/2021/05/20/government-digital-service-our-strategy-for-2021-2024/
-        image_src: roadmap/updates-goals.jpg
+        image_src: roadmap/updates-goals.webp
         heading_text: Our vision
       - href: https://gdscareers.gov.uk/
-        image_src: roadmap/updates-work.jpg
+        image_src: roadmap/updates-work.webp
         heading_text: Work at GDS
       - href: https://insidegovuk.blog.gov.uk/
-        image_src: roadmap/updates-blog.jpg
+        image_src: roadmap/updates-blog.webp
         heading_text: Inside GOV.UK blog
   save: Save
   sessions:

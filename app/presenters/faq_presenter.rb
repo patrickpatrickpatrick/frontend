@@ -61,6 +61,6 @@ private
   end
 
   def logo_url
-    view_context.image_url("govuk_publishing_components/govuk-logo.png")
+    view_context.image_url("govuk_publishing_components/govuk-logo.webp")
   end
 end
